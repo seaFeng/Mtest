@@ -24,8 +24,9 @@
         <activity android:name=".time.TimePickActivity" />
         <activity android:name=".textview.OwnTextViewActivity" />
         <activity android:name=".view.StatusBarActivity" />
-        <activity android:name=".MaterialDesign.CoordinatorLayoutActivity"></activity>
-        <activity android:name=".MaterialDesign.MetrialThemeActivity"></activity>
+        <activity android:name=".MaterialDesign.CoordinatorLayoutActivity" />
+        <activity android:name=".MaterialDesign.MetrialThemeActivity" />
+        <activity android:name=".MaterialDesign.MetrialActivity"></activity>
     </application>
 
 </manifest>
